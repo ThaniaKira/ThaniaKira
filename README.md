@@ -14,14 +14,7 @@
 - ⚡ C#  
 - 📊 Pandas  
 - 🌐 Flask  
-- 🖥️ VS Code  
-
----
-
-## 📌 Featured Projects  
-🔹 (Add your projects here later, for example:)  
-- 🕸️ **Web Development Practice Projects**  
-- 📊 **Data Science Explorations**  
+- 🖥️ VS Code   
 
 ---
 
@@ -36,7 +29,7 @@
 ## 💌 Connect with Me  
 
 📧 **Email:** [bellakaniy8@gmail.com](mailto:bellakaniy8@gmail.com)  
-🔗 **LinkedIn:** [Mabs Bulos](https://www.linkedin.com/in/mariabel-bulos-49556a243)  
+🔗 **LinkedIn:** [Mariabel Bulos](https://www.linkedin.com/in/mariabel-bulos-49556a243)  
 
 ---
 
